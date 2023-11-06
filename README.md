@@ -1,1 +1,1 @@
-# N-h-ggr-Core
+# Nidhogg Core
